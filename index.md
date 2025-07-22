@@ -20,3 +20,6 @@ I'm Santhosh Kumar Karnati, a passionate expert in Microsoft Dynamics CRM 365. T
 > Excellence isn't just about skill—it's about sharing, mentoring, and innovating.
 
 Explore my [About](about.md) page to learn more.
+## 📰 Explore All Blog Posts
+- 👉 [See all articles in one place](blog.md)
+
