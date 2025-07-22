@@ -2,6 +2,7 @@
 layout: default
 title: About Santhosh Kumar Karnati
 ---
+[🏠 Home](index.md) | [📘 About](about.md) | [📰 Blog](blog.md)
 
 # 👨‍💻 About Me
 
