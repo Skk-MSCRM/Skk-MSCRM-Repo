@@ -12,6 +12,7 @@ I'm Santhosh Kumar Karnati, a passionate expert in Microsoft Dynamics CRM 365. T
 - Deep dives into CRM architecture and JavaScript customizations
 - My professional journey and achievements
 - Case studies and enterprise solutions
+- 📑 [Mastering Multi-Select Fields and Conditional Logic in Dynamics CRM](_posts/2025-07-22-customization-dynamics.md)
 
 ## 📑 Recent Articles
 - [Mastering Multi-Select Fields in Dynamics CRM](_posts/2025-07-22-customization-dynamics.md)
