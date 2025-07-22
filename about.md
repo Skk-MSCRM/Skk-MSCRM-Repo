@@ -9,7 +9,7 @@ title: About Santhosh Kumar Karnati
 I’m Santhosh Kumar Karnati, an experienced Microsoft Dynamics CRM developer with a proven track record of building high-performance, enterprise-grade CRM solutions across industries. This blog is a testament to the technical leadership and expertise that support my EB1 visa qualifications.
 
 ## 🏆 Key Achievements
-- 10+ years of CRM implementation and customization
+- 14+ years of CRM implementation and customization
 - Mastery of CRM workflows, plugins, and JavaScript logic
 - Successful delivery of large-scale CRM projects
 
