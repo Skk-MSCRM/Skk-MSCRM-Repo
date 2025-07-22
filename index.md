@@ -2,6 +2,7 @@
 layout: default
 title: Santhosh Kumar Karnati - Dynamics CRM Expert
 ---
+[🏠 Home](index.md) | [📘 About](about.md) | [📰 Blog](blog.md)
 
 # 👋 Welcome to My Blog
 
