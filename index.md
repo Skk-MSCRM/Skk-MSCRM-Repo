@@ -16,6 +16,9 @@ I'm Santhosh Kumar Karnati, a passionate expert in Microsoft Dynamics CRM 365. T
 
 ## 📑 Recent Articles
 - [Mastering Multi-Select Fields in Dynamics CRM](_posts/2025-07-22-customization-dynamics.md)
+- ## 📰 View All Posts
+- 👉 [Browse all blog articles](blog.md)
+
 
 > Excellence isn't just about skill—it's about sharing, mentoring, and innovating.
 
