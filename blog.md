@@ -2,6 +2,7 @@
 layout: default
 title: Blog
 ---
+[🏠 Home](index.md) | [📘 About](about.md) | [📰 Blog](blog.md)
 
 # 📰 Blog Articles
 
